@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="47.94mm" height="119.03291886010284mm" viewBox="0 0 47.94 119.03291886010284" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Unfold_Sketch" transform="translate(31.470000,59.016459) scale(1,-1)">
+<path id="Unfold_Sketch_w0000"  d="M 16.0 55.54645943005142 L 16.0 15.148229715025714 L 12.0 11.14822971502571 L 11.0 11.148229715025712 L 11.0 -11.148229715025712 L 12.0 -11.14822971502571 L 16.0 -15.148229715025714 L 16.0 -56.54645943005142 A 3 3 0 0 0 13 -59.5465L -28.0 -59.54645943005142 A 3 3 0 0 0 -31 -56.5465L -31.0 -20.148229715025714 A 9 9 0 0 0 -22 -11.1482L -11.0 -11.148229715025714 L -11.0 11.148229715025714 L -22.0 11.14822971502571 A 9 9 0 0 0 -31 20.1482L -31.0 55.546459430051414 A 3 3 0 0 0 -28 58.5465L 13.0 58.54645943005142 A 3 3 0 0 0 16 55.5465" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Unfold_Sketch_w0001"  d="M -2.559303019700753 20.648229015186523 L 7.002645447373999 20.648229015186526 A 2.5 2.5 0 0 0 7 15.6482L -4.510000000000002 15.648229015186526 A 5 5 0 0 0 -9.50526 20.7931A 12 12 0 0 1 -17 32.2725A 2.63465 2.63465 0 0 0 -17 37.5418A 17 17 0 0 0 -4.55306 22.4903A 2 2 0 0 1 -2.5593 20.6482" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Unfold_Sketch_w0002"  d="M -17.0 -37.541826025780715 A 17 17 0 0 1 -4.55306 -22.4903A 2 2 0 0 0 -2.5593 -20.6482L 7.002645447373999 -20.64822901518653 A 2.5 2.5 0 0 1 7 -15.6482L -4.510000000000001 -15.648229015186532 A 5 5 0 0 1 -9.50526 -20.7931A 12 12 0 0 0 -17 -32.2725A 2.63465 2.63465 0 0 1 -17 -37.5418" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="-21.5" cy="-21.148229715025714" r="4.1" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-21.5" cy="21.14822971502571" r="4.1" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-25.0" cy="51.296459430051414" r="2.6" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-25.0" cy="-51.296459430051414" r="2.6" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="10.0" cy="51.296459430051414" r="2.6" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="10.0" cy="-51.296459430051414" r="2.6" stroke="#000080" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Unfold_Sketch'</title>
+</g>
+</svg>
